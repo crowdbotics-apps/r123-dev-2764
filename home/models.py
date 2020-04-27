@@ -68,3 +68,8 @@ class Testing(models.Model):
 class Test(models.Model):
     "Generated Model"
     test = models.BigIntegerField()
+
+
+class R1(models.Model):
+    "Generated Model"
+    r1 = models.BigIntegerField()
